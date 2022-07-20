@@ -1619,7 +1619,7 @@ textarea {
 .ini-info {
     position: relative;
     z-index: 1;
-    padding-left: 3.75rem;
+    /*padding-left: 3.75rem;*/
     margin: 0 auto;
 }
 
@@ -3420,7 +3420,7 @@ body.mmm-open .mmm {
 
 .item {
     /* margin-bottom: 45px; */
-    margin-top: 20px;
+    margin-top: 10px;
 }
 
 .content-items {
@@ -3564,6 +3564,10 @@ body.mmm-open .mmm {
 .el-ripple:hover .el-ripple-circle {
     width: calc(var(--ripple-width) * 3);
     padding-top: calc(var(--ripple-width) * 3);
+}
+
+.texto_areas{
+    text-align: justify;
 }
 
 /* === 5. Media === */

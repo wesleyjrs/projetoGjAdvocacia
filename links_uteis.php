@@ -51,10 +51,11 @@
                     </div>
                 </div>
             </div>
-        </nav><!-- End bread crumbs -->
+        </nav>
+        <!-- End bread crumbs -->
 
         <!-- Begin advantages -->
-        <section class="section section-bgc" style="margin-bottom: 100px;background-color: #e9e9e9;">
+        <section class="section section-bgc" style="margin-bottom: 100px;background-color: #ffffff;">
             <div class="container">
                 <div class="row items">
                     <div class="col-12">
@@ -63,7 +64,7 @@
                             <h2>Links Úteis</h2>
                         </div>
                         <div>
-                            <p style="font-weight: bold;">Para facilitar o acesso a conteúdo importantes, separamos uma
+                            <p style="font-weight: bold;text-align: center;">Para facilitar o acesso a conteúdo importantes, separamos uma
                                 relação de links úteis:
                             </p>
                         </div>
@@ -144,77 +145,77 @@
                     <div class="col-12 item">
                         <div class="ini">
                             <div class="ini-info">
-                                <a href="https://www.oab.org.br/" target="_blank">>Ordem dos Advogados do Brasil - Conselho Federal</a>
+                                <a href="https://www.oab.org.br/" target="_blank">Ordem dos Advogados do Brasil - Conselho Federal</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-12 item">
                         <div class="ini">
                             <div class="ini-info">
-                                <a href="https://www.oab.org.br/">Ordem dos Advogados do Brasil – Seção São Paulo</a>
+                                <a href="https://www.oab.org.br/"  target="_blank">Ordem dos Advogados do Brasil – Seção São Paulo</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-12 item">
                         <div class="ini">
                             <div class="ini-info">
-                                <a href="http://www4.planalto.gov.br/legislacao/">Palácio do Planalto - Legislação</a>
+                                <a href="http://www4.planalto.gov.br/legislacao/"  target="_blank">Palácio do Planalto - Legislação</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-12 item">
                         <div class="ini">
                             <div class="ini-info">
-                                <a href="http://www.capital.sp.gov.br/">Prefeitura do Município de São Paulo</a>
+                                <a href="http://www.capital.sp.gov.br/"  target="_blank">Prefeitura do Município de São Paulo</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-12 item">
                         <div class="ini">
                             <div class="ini-info">
-                                <a href="https://www.procon.sp.gov.br/">PROCON do Estado de São Paulo</a>
+                                <a href="https://www.procon.sp.gov.br/"  target="_blank">PROCON do Estado de São Paulo</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-12 item">
                         <div class="ini">
                             <div class="ini-info">
-                                <a href="https://www.gov.br/receitafederal/pt-br">Receita Federal</a>
+                                <a href="https://www.gov.br/receitafederal/pt-br"  target="_blank">Receita Federal</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-12 item">
                         <div class="ini">
                             <div class="ini-info">
-                                <a href="https://www.stj.jus.br/sites/portalp/Inicio">Superior Tribunal de Justiça</a>
+                                <a href="https://www.stj.jus.br/sites/portalp/Inicio"  target="_blank">Superior Tribunal de Justiça</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-12 item">
                         <div class="ini">
                             <div class="ini-info">
-                                <a href="https://portal.stf.jus.br/">Supremo Tribunal Federal </a>
+                                <a href="https://portal.stf.jus.br/"  target="_blank">Supremo Tribunal Federal </a>
                             </div>
                         </div>
                     </div>
                     <div class="col-12 item">
                         <div class="ini">
                             <div class="ini-info">
-                                <a href="https://www.tjsp.jus.br/">Tribunal de Justiça do Estado de São Paulo</a>
+                                <a href="https://www.tjsp.jus.br/"  target="_blank">Tribunal de Justiça do Estado de São Paulo</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-12 item">
                         <div class="ini">
                             <div class="ini-info">
-                                <a href="https://ww2.trt2.jus.br/">Tribunal Regional do Trabalho da 2ª região</a>
+                                <a href="https://ww2.trt2.jus.br/"  target="_blank">Tribunal Regional do Trabalho da 2ª região</a>
                             </div>
                         </div>
                     </div>
                     <div class="col-12 item">
                         <div class="ini">
                             <div class="ini-info">
-                                <a href="#">Tribunal Regional Federal da 3ª região</a>
+                                <a href="https://www.trf3.jus.br/"  target="_blank">Tribunal Regional Federal da 3ª região</a>
                             </div>
                         </div>
                     </div>
@@ -230,6 +231,9 @@
         <!-- End footer -->
 
     </main><!-- End main -->
+    <a href="https://api.whatsapp.com/send?phone=5516991215415&text=Olá!%20Encontrei%20seu%20site%20na%20Internet%20e%20preciso%20de%20seus%20serviços." class="float" target="_blank" onclick="goog_report_conversion('https://api.whatsapp.com/send?phone=554899999999&text=Olá!%20Entrei%20em%20seu%20site%20e%20preciso%20de%20seus%20serviços.')">
+        <img src="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/PjwhRE9DVFlQRSBzdmcgIFBVQkxJQyAnLS8vVzNDLy9EVEQgU1ZHIDEuMS8vRU4nICAnaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkJz48c3ZnIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMCAwIDUxMiA1MTIiIGlkPSJMYXllcl8xIiB2ZXJzaW9uPSIxLjEiIHZpZXdCb3g9IjAgMCA1MTIgNTEyIiB4bWw6c3BhY2U9InByZXNlcnZlIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIj48Zz48cGF0aCBkPSJNNTAwLjQsMjQxLjhjLTAuNiw2My40LTE2LjksMTEzLTUwLjgsMTU2LjFjLTM2LjQsNDYuMy04My44LDc1LjctMTQxLjgsODcuNiAgIGMtNDQuOCw5LjEtODguNCw1LjEtMTMxLjItMTAuNGMtOS41LTMuNS0xOC44LTcuNi0yNy43LTEyLjVjLTIuNy0xLjUtNS0xLjctOC0wLjdjLTQwLjUsMTMuMS04MS4xLDI2LjEtMTIxLjcsMzkgICBjLTEuOCwwLjYtNC4yLDIuMy01LjYsMWMtMS42LTEuNiwwLjQtNCwxLTUuOWM4LjEtMjQuMSwxNi4yLTQ4LjMsMjQuNC03Mi40YzUtMTQuNyw5LjgtMjkuMywxNS00My45YzEuNC0zLjgsMC45LTYuNy0xLjItMTAuMiAgIGMtMTAuMy0xNy42LTE3LjktMzYuNC0yMy4zLTU2LjFjLTEwLjEtMzctMTEuMi03NC40LTMuMy0xMTEuOGM4LjYtNDAuOCwyNi42LTc3LjIsNTQuMy0xMDguNmMzMy41LTM4LDc0LjgtNjMuMSwxMjMuOS03NS4yICAgYzMxLjMtNy43LDYyLjktOC45LDk0LjctMy43YzQxLjYsNi44LDc5LjEsMjMuMywxMTEuOCw0OS45YzM0LDI3LjcsNTguOCw2Mi4xLDc0LjQsMTAzLjRDNDkzLjksMTg5LjcsNTAwLjcsMjI2LjIsNTAwLjQsMjQxLjh6ICAgIE03NC42LDQ0MS41YzI0LjgtOCw0OC41LTE1LjYsNzItMjMuM2MzLjEtMSw1LjYtMC44LDguMywxYzksNiwxOC43LDEwLjgsMjguNywxNWMzMi41LDEzLjgsNjYuMywxOC44LDEwMS4yLDE0LjMgICBjNDIuOC01LjUsODAuNC0yMi43LDExMi01Mi42YzM5LjgtMzcuNyw2MS4xLTgzLjksNjMtMTM4LjVjMS44LTUzLjUtMTUuNC0xMDAuNS01MS4zLTE0MC40Yy0zNC4xLTM3LjktNzYuOS01OS41LTEyNy40LTY0LjkgICBjLTQzLjktNC43LTg1LDQuOC0xMjMsMjcuNmMtMzIuNSwxOS42LTU3LjQsNDYuMy03NC43LDgwYy0xOS4xLDM3LjEtMjUuNiw3Ni41LTIwLjEsMTE3LjhjNC4xLDMxLjIsMTUuMyw1OS45LDMzLjMsODUuNyAgIGMyLDIuOSwyLjYsNS4zLDEuNCw4LjdjLTMuNywxMC4yLTcsMjAuNS0xMC41LDMwLjdDODMuMyw0MTUuMiw3OS4yLDQyNy44LDc0LjYsNDQxLjV6IiBmaWxsPSIjNTFDODVEIi8+PHBhdGggZD0iTTE0MSwxOTQuN2MwLjUtMjMuOCw4LjktNDEuNSwyNC44LTU1LjZjNS4xLTQuNiwxMS40LTYuNiwxOC41LTUuNmMzLDAuNCw2LDAuNyw5LDAuNSAgIGM1LjYtMC4zLDkuNCwyLjQsMTEuMyw3LjNjNi43LDE3LjQsMTMuMiwzNC44LDE5LjcsNTIuM2MyLjIsNi0xLjYsMTAuNy00LjgsMTVjLTMuNyw1LjEtOC4yLDkuNi0xMi42LDE0LjEgICBjLTQuNSw0LjYtNS4xLDcuMi0yLDEyLjhjMTguMSwzMi45LDQzLjUsNTguMiw3OCw3My44YzEuMiwwLjUsMi40LDEuMiwzLjYsMS44YzQuNiwyLjEsOC43LDEuNiwxMi4yLTIuNCAgIGM2LjQtNy41LDEzLjQtMTQuNCwxOS4zLTIyLjNjMy45LTUuMiw2LjYtNi4xLDEyLjUtMy41YzE3LjYsNy42LDM0LjEsMTcuMiw1MC45LDI2LjVjMy4xLDEuNyw0LjIsNC4zLDQuMSw3LjkgICBjLTAuOSwyOS41LTE3LjgsNDQuOS00Ny41LDUxLjdjLTE0LjQsMy4zLTI3LjctMC4zLTQwLjktNS4xYy0yNy43LTEwLTU0LjQtMjEuOC03Ni44LTQxLjZjLTE3LjgtMTUuOC0zMy41LTMzLjQtNDYuOC01My4xICAgYy0xMC4yLTE1LjItMjAuOC0zMC4xLTI2LjctNDcuOEMxNDMuNCwyMTIsMTQwLjksMjAyLjQsMTQxLDE5NC43eiIgZmlsbD0iIzUxQzg1RCIvPjwvZz48L3N2Zz4=" alt="" width="60px">
+    </a>
 
     <script src="assets/libs/jquery/jquery.min.js"></script>
     <script src="assets/libs/lozad/lozad.min.js"></script>

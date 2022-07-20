@@ -6,7 +6,7 @@
             <ul class="mmm-list">
                 <li><a href="index.php">Início</a></li>
                 <li><a href="escritorio.php">O Escritório</a></li>
-                <li><a href="servicos.php">Áreas de Atuação</a></li>
+                <li><a href="areas_atuacao.php">Áreas de Atuação</a></li>
                 <li><a href="links_uteis.php">Links Úteis</a></li>
             </ul>
         </div>
@@ -36,7 +36,7 @@
                         <li><a href="index.php" data-title="Início"><span>Início</span></a></li>
                         <li><a href="escritorio.php" data-title="O Escritório"><span>O Escritório</span></a>
                         </li>
-                        <li><a href="servicos.php" data-title="Áreas de Atuação"><span>Áreas de
+                        <li><a href="areas_atuacao.php" data-title="Áreas de Atuação"><span>Áreas de
                                     Atuação</span></a></li>
                         <li><a href="links_uteis.php" data-title="Links Úteis"><span>Links Úteis</span></a>
                         </li>
