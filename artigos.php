@@ -47,7 +47,7 @@
                                 <a href="index.php">Início</a>
                                 <i class="material-icons md-18">chevron_right</i>
                             </li>
-                            <li><a href="areas_atuacao.php">Áreas de Atuação</a></li>
+                            <li><a href="areas_atuacao.php">Artigos</a></li>
                         </ul>
                     </div>
                 </div>
@@ -60,8 +60,8 @@
                 <div class="row">
                     <div class="col-12">
                         <div class="section-heading heading-center">
-                            <div class="section-subheading">conheça nossas </div>
-                            <h2>Áreas de Atuação</h2>
+                            <div class="section-subheading">alguns</div>
+                            <h2>Artigos</h2>
                         </div>
                     </div>
                     <div class="col-lg-4 col-md-6 col-12 item">

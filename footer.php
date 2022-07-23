@@ -16,7 +16,7 @@
                 <div class="col-xl-4 col-md-3 col-lg-2 item">
                     <div class="footer-company-info">
                         <div class="footer-company-top">
-                            <a href="/" class="logo" title="PathSoft">
+                            <a href="#" class="logo" title="PathSoft">
                                 <img data-src="assets/img/Logo1_Transparentebranco.png" class="lazy" src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" alt="PathSoft" style="margin: auto;">
                             </a>
                         </div>
@@ -52,8 +52,7 @@
                                     <li><a href="about-us.html" class="hover-link" data-title="Início"><span>Início</span></a></li>
                                     <li><a href="about-us.html" class="hover-link" data-title="O Escritório"><span>O
                                                 Escritório</span></a></li>
-                                    <li><a href="services.html" class="hover-link" data-title="Áreas de Atuação"><span>Áreas de
-                                                Atuação</span></a></li>
+                                    <li><a href="services.html" class="hover-link" data-title="Artigos"><span>Artigos</span></a></li>
                                     <li><a href="contact-us.html" class="hover-link" data-title="Links Úteis"><span>Links Úteis</span></a></li>
 
 

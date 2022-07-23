@@ -53,35 +53,9 @@
                             <div class="col">
                                 <div class="intro-content">
                                     <div class="section-heading shm-none">
-                                        <!-- <div class="section-subheading">Lorem Ipsum</div> -->
-                                        <!-- <h1>TITULO</h1> -->
-                                        <!-- <p class="section-desc">Prezamos por atender nossos clientes com celeridade,
-                                            responsabilidade,
-                                            ética e comprometimento, direcionando o caso concreto a uma de nossas áreas
-                                            de especialidade,
-                                            priorizando sempre o diálogo entre as partes para solucionar os conflitos.
-                                            Nossa equipe está
-                                            totalmente preparada para encontrar soluções jurídicas inovadoras e
-                                            eficazes, no intuito de
-                                            obter o resultado útil da ação e resguardando os interesses dos nossos
-                                            clientes. </p> -->
+
                                     </div>
-                                    <!-- ex
-                                    <div class="wrap-btn intro-btns">
-                                        <a href="#"
-                                            class="btn btn-with-icon btn-small ripple">
-                                            <span>Buy premium</span>
-                                            <svg class="btn-icon-right" viewBox="0 0 13 9" width="13" height="9">
-                                                <use xlink:href="assets/img/sprite.svg#arrow-right"></use>
-                                            </svg>
-                                        </a>
-                                        <a href="#" class="btn btn-with-icon btn-border btn-small ripple">
-                                            <span>Get in Touch</span>
-                                            <svg class="btn-icon-right" viewBox="0 0 13 9" width="13" height="9">
-                                                <use xlink:href="assets/img/sprite.svg#arrow-right"></use>
-                                            </svg>
-                                        </a>
-                                    </div> fim ex -->
+
                                 </div>
                             </div>
                         </div>
@@ -218,23 +192,24 @@
                 <div class="row">
                     <div class="col-12">
                         <div class="section-heading heading-center">
-                            <div class="section-subheading">conheça nossas </div>
-                            <h2>Áreas de Atuação</h2>
+                            <div class="section-subheading">alguns</div>
+                            <h2>Artigos</h2>
                         </div>
                     </div>
+
                     <div class="col-lg-4 col-md-6 col-12 item">
                         <!-- Begin news item -->
                         <article class="news-item item-style">
-                            <a href="area_atuacao_inventario.php" class="news-item-img">
+                            <a href="artigo_inventario.php" class="news-item-img">
                                 <img data-src="assets/img/Inventario.jpg" class="lazy" alt="">
                             </a>
                             <div class="news-item-info">
                                 <h3 class="news-item-heading item-heading">
-                                    <a href="area_atuacao_inventario.php" title="Inventário">Inventário</a>
+                                    <a href="artigo_inventario.php" title="Inventário">Inventário</a>
                                 </h3>
                                 <div class="news-item-desc">
                                     <p class="texto_areas">O inventário é um documento que reúne a listagem dos bens que uma pessoa — física ou jurídica — tem. Em caso
-                                         de falecimento, é preciso registrar essa relação de bens, direitos e obrigações, para que seja possível realizar a partilha entre os herdeiros.
+                                        de falecimento, é preciso registrar essa relação de bens, direitos e obrigações, para que seja possível realizar a partilha entre os herdeiros.
                                     </p>
                                 </div>
                             </div>
@@ -243,16 +218,16 @@
                     <div class="col-lg-4 col-md-6 col-12 item">
                         <!-- Begin news item -->
                         <article class="news-item item-style">
-                            <a href="area_atuacao_pensao_alimenticia.php" class="news-item-img">
+                            <a href="artigo_pensao_alimenticia.php" class="news-item-img">
                                 <img data-src="assets/img/PensaoAlimenticia.jpg" class="lazy" alt="">
                             </a>
                             <div class="news-item-info">
                                 <h3 class="news-item-heading item-heading">
-                                    <a href="area_atuacao_pensao_alimenticia.php" title="Pensão alimentícia">Pensão alimentícia</a>
+                                    <a href="artigo_pensao_alimenticia.php" title="Pensão alimentícia">Pensão alimentícia</a>
                                 </h3>
                                 <div class="news-item-desc">
                                     <p class="texto_areas">A pensão alimentícia é um valor usado para garantir a subsistência de uma pessoa que não pode se manter por
-                                         conta própria. Dessa forma, a pensão nada mais é do que um pagamento, realizado geralmente todos os meses. </p>
+                                        conta própria. Dessa forma, a pensão nada mais é do que um pagamento, realizado geralmente todos os meses. </p>
                                 </div>
                             </div>
                         </article><!-- End news item -->
@@ -260,17 +235,17 @@
                     <div class="col-lg-4 col-md-6 col-12 item">
                         <!-- Begin news item -->
                         <article class="news-item item-style">
-                            <a href="area_atuacao_recalculo_adicional.php" class="news-item-img">
+                            <a href="artigo_recalculo_adicional.php" class="news-item-img">
                                 <img data-src="assets/img/recalculo.jpg" class="lazy" alt="">
                             </a>
                             <div class="news-item-info">
                                 <h3 class="news-item-heading item-heading">
-                                    <a href="area_atuacao_recalculo_adicional.php" title="Recálculo do Adicional por Tempo de Serviço ">Recálculo do Adicional por
+                                    <a href="artigo_recalculo_adicional.php" title="Recálculo do Adicional por Tempo de Serviço ">Recálculo do Adicional por
                                         Tempo de Serviço </a>
                                 </h3>
                                 <div class="news-item-desc">
                                     <p class="texto_areas">Você Policial Militar pode ingressar com ação judicial para requerer o recálculo do adicional por tempo de serviço de modo
-                                         que incida sobre todos os vencimentos, e não somente sobre o vencimento padrão. </p>
+                                        que incida sobre todos os vencimentos, e não somente sobre o vencimento padrão. </p>
                                 </div>
                             </div>
                         </article><!-- End news item -->
@@ -278,7 +253,7 @@
                     <div class="col-12">
                         <div class="section-btns justify-content-center" style="margin-top: 50px;">
                             <a href="areas_atuacao.php" class="btn btn-with-icon btn-w240 ripple">
-                                <span>ver todas Áreas de atuação</span>
+                                <span>ver todos Artigos</span>
                                 <svg class="btn-icon-right" viewBox="0 0 13 9" width="13" height="9">
                                     <use xlink:href="assets/img/sprite.svg#arrow-right"></use>
                                 </svg>
@@ -393,6 +368,68 @@
                 </div>
             </div>
         </section><!-- End advantages -->
+
+        <!-- Begin latest news -->
+        <section class="section section-bgc">
+            <div class="container">
+                <div class="row">
+                    <div class="col-12">
+                        <div class="section-heading heading-center">
+                            <div class="section-subheading">conheça nossas </div>
+                            <h2>Áreas de Atuação</h2>
+                        </div>
+                    </div>
+
+                    <div class="col-lg-4 col-md-6 col-12 item">
+                        <!-- Begin icon item -->
+                        <a href="single-services.html" class="iitem item-style">
+                                <!-- <i class="material-icons material-icons-outlined md-48">corporate_fare</i> -->
+                                <img src="assets/img/icons_area/civel2.png" alt="">
+                         
+                            <div class="iitem-icon-bg">
+                                <i class="material-icons material-icons-outlined">corporate_fare</i>
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-12 item">
+                        <!-- Begin icon item -->
+                        <a href="single-services.html" class="iitem item-style">
+                            <div class="iitem-icon">
+                                <i class="material-icons material-icons-outlined md-48">corporate_fare</i>
+                            </div>
+                            <div class="iitem-icon-bg">
+                                <i class="material-icons material-icons-outlined">corporate_fare</i>
+                            </div>
+                            <h3 class="iitem-heading item-heading-large">Corporate Solution</h3>
+                            <div class="iitem-desc">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots
+                                in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</div>
+                        </a>
+                    </div>
+                    <div class="col-lg-4 col-md-6 col-12 item">
+                        <!-- Begin icon item -->
+                        <a href="single-services.html" class="iitem item-style">
+                            <div class="iitem-icon">
+                                <i class="material-icons material-icons-outlined md-48">corporate_fare</i>
+                            </div>
+                            <div class="iitem-icon-bg">
+                                <i class="material-icons material-icons-outlined">corporate_fare</i>
+                            </div>
+                            <h3 class="iitem-heading item-heading-large">Corporate Solution</h3>
+                            <div class="iitem-desc">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots
+                                in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</div>
+                        </a>
+                    </div>
+
+
+
+
+
+
+
+
+                </div>
+            </div>
+        </section><!-- End latest news -->
 
         <!-- Begin mapa -->
         <div class="container">

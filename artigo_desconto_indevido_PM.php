@@ -47,7 +47,7 @@
 								<a href="index.php">Início</a>
 								<i class="material-icons md-18">chevron_right</i>
 							</li>
-							<li><a href="#!">Áreas de Atuação</a>
+							<li><a href="#!">Artigos</a>
 								<i class="material-icons md-18">chevron_right</i>
 							</li>
 							<!-- <li>Inventário
