@@ -371,7 +371,7 @@
 
         <!-- Begin latest news -->
         <section class="section section-bgc">
-            <div class="container">
+            <div class="container" style="margin-bottom: 100px;">
                 <div class="row">
                     <div class="col-12">
                         <div class="section-heading heading-center">
@@ -380,43 +380,161 @@
                         </div>
                     </div>
 
-                    <div class="col-lg-4 col-md-6 col-12 item">
+                    <div class="col-lg-3 col-md-6 col-12 item">
                         <!-- Begin icon item -->
-                        <a href="single-services.html" class="iitem item-style">
-                                <!-- <i class="material-icons material-icons-outlined md-48">corporate_fare</i> -->
-                                <img src="assets/img/icons_area/civel2.png" alt="">
-                         
-                            <div class="iitem-icon-bg">
-                                <i class="material-icons material-icons-outlined">corporate_fare</i>
+                        <a href="single-services.html" class="iitem item-style areas">
+                            <div>
+                                <img src="assets/img/icons_area/civel.png" alt="" style="padding: 30px;">
+                            </div>
+
+                            <div>
+                                <span class="iitem-heading item-heading-large">Civel</span>
+                               
                             </div>
                         </a>
                     </div>
-                    <div class="col-lg-4 col-md-6 col-12 item">
+                    <div class="col-lg-3 col-md-6 col-12 item">
                         <!-- Begin icon item -->
                         <a href="single-services.html" class="iitem item-style">
-                            <div class="iitem-icon">
-                                <i class="material-icons material-icons-outlined md-48">corporate_fare</i>
+                            <div>
+                                <img src="assets/img/icons_area/consumidor.png" alt="" style="padding: 30px;">
                             </div>
-                            <div class="iitem-icon-bg">
-                                <i class="material-icons material-icons-outlined">corporate_fare</i>
+
+                            <div>
+                                <span class="iitem-heading item-heading-large">Consumidor</span>
+                               
                             </div>
-                            <h3 class="iitem-heading item-heading-large">Corporate Solution</h3>
-                            <div class="iitem-desc">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots
-                                in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</div>
                         </a>
                     </div>
-                    <div class="col-lg-4 col-md-6 col-12 item">
+                    <div class="col-lg-3 col-md-6 col-12 item">
                         <!-- Begin icon item -->
                         <a href="single-services.html" class="iitem item-style">
-                            <div class="iitem-icon">
-                                <i class="material-icons material-icons-outlined md-48">corporate_fare</i>
+                            <div>
+                                <img src="assets/img/icons_area/contrato.png" alt="" style="padding: 30px;">
                             </div>
-                            <div class="iitem-icon-bg">
-                                <i class="material-icons material-icons-outlined">corporate_fare</i>
+
+                            <div>
+                                <span class="iitem-heading item-heading-large">Contratos</span>
+                               
                             </div>
-                            <h3 class="iitem-heading item-heading-large">Corporate Solution</h3>
-                            <div class="iitem-desc">Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots
-                                in a piece of classical Latin literature from 45 BC, making it over 2000 years old.</div>
+                        </a>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-12 item">
+                        <!-- Begin icon item -->
+                        <a href="single-services.html" class="iitem item-style">
+                            <div>
+                                <img src="assets/img/icons_area/dissolucao_uniao.png" alt="" style="padding: 30px;">
+                            </div>
+
+                            <div>
+                                <span class="iitem-heading item-heading-large">Dissolução De União Estável</span>
+                               
+                            </div>
+                        </a>
+                    </div>
+
+                    <div class="col-lg-3 col-md-6 col-12 item">
+                        <!-- Begin icon item -->
+                        <a href="single-services.html" class="iitem item-style">
+                            <div>
+                                <img src="assets/img/icons_area/direitoPublico.png" alt="" style="padding: 30px;">
+                            </div>
+
+                            <div>
+                                <h5 class="iitem-heading item-heading-large">Direito Público</h5>
+                               
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-12 item">
+                        <!-- Begin icon item -->
+                        <a href="single-services.html" class="iitem item-style">
+                            <div>
+                                <img src="assets/img/icons_area/divorcio.png" alt="" style="padding: 30px;">
+                            </div>
+
+                            <div>
+                                <h5 class="iitem-heading item-heading-large">Divórcio</h5>
+                               
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-12 item">
+                        <!-- Begin icon item -->
+                        <a href="single-services.html" class="iitem item-style">
+                            <div>
+                                <img src="assets/img/icons_area/inventario.png" alt="" style="padding: 30px;">
+                            </div>
+
+                            <div>
+                                <h5 class="iitem-heading item-heading-large">Inventário</h5>
+                               
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-12 item">
+                        <!-- Begin icon item -->
+                        <a href="single-services.html" class="iitem item-style">
+                            <div>
+                                <img src="assets/img/icons_area/pensao_alimenticia.png" alt="" style="padding: 30px;">
+                            </div>
+
+                            <div>
+                                <h5 class="iitem-heading item-heading-large">Pensão Alimentícia</h5>
+                               
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-12 item">
+                        <!-- Begin icon item -->
+                        <a href="single-services.html" class="iitem item-style">
+                            <div>
+                                <img src="assets/img/icons_area/trabalhista.png" alt="" style="padding: 30px;">
+                            </div>
+
+                            <div>
+                                <h5 class="iitem-heading item-heading-large">Trabalhista</h5>
+                               
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-12 item">
+                        <!-- Begin icon item -->
+                        <a href="single-services.html" class="iitem item-style">
+                            <div>
+                                <img src="assets/img/icons_area/tributario.png" alt="" style="padding: 30px;">
+                            </div>
+
+                            <div>
+                                <h5 class="iitem-heading item-heading-large">Tributário</h5>
+                               
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-12 item">
+                        <!-- Begin icon item -->
+                        <a href="single-services.html" class="iitem item-style">
+                            <div>
+                                <img src="assets/img/icons_area/uniaoEstavel.png" alt="" style="padding: 30px;">
+                            </div>
+
+                            <div>
+                                <h5 class="iitem-heading item-heading-large">Reconhecimento De União Estável</h5>
+                               
+                            </div>
+                        </a>
+                    </div>
+                    <div class="col-lg-3 col-md-6 col-12 item">
+                        <!-- Begin icon item -->
+                        <a href="single-services.html" class="iitem item-style">
+                            <div>
+                                <img src="assets/img/icons_area/outros.png" alt="" style="padding: 30px;">
+                            </div>
+
+                            <div>
+                                <h5 class="iitem-heading item-heading-large">Outros</h5>
+                               
+                            </div>
                         </a>
                     </div>
 
