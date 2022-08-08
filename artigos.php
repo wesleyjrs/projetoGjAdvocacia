@@ -67,12 +67,12 @@
                     <div class="col-lg-4 col-md-6 col-12 item">
                         <!-- Begin news item -->
                         <article class="news-item item-style">
-                            <a href="area_atuacao_inventario.php" class="news-item-img">
+                            <a href="artigo_inventario.php" class="news-item-img">
                                 <img data-src="assets/img/Inventario.jpg" class="lazy" alt="">
                             </a>
                             <div class="news-item-info">
                                 <h3 class="news-item-heading item-heading">
-                                    <a href="area_atuacao_inventario.php" title="Inventário">Inventário</a>
+                                    <a href="artigo_inventario.php" title="Inventário">Inventário</a>
                                 </h3>
                                 <div class="news-item-desc">
                                     <p class="texto_areas">O inventário é um documento que reúne a listagem dos bens que uma pessoa — física ou jurídica — tem. Em caso
@@ -82,7 +82,7 @@
                                 </div>
                             </div>
                             <div class="section-btns justify-content-center">
-                                <a href="area_atuacao_inventario.php" class="btn btn-with-icon btn-w240 ripple">
+                                <a href="artigo_inventario.php" class="btn btn-with-icon btn-w240 ripple">
                                     <span>Saiba mais</span>
                                 </a>
                             </div>
@@ -91,12 +91,12 @@
                     <div class="col-lg-4 col-md-6 col-12 item">
                         <!-- Begin news item -->
                         <article class="news-item item-style">
-                            <a href="area_atuacao_pensao_alimenticia.php" class="news-item-img">
+                            <a href="artigo_pensao_alimenticia.php" class="news-item-img">
                                 <img data-src="assets/img/PensaoAlimenticia.jpg" class="lazy" alt="">
                             </a>
                             <div class="news-item-info">
                                 <h3 class="news-item-heading item-heading">
-                                    <a href="area_atuacao_pensao_alimenticia.php" title="Pensão alimentícia">Pensão alimentícia</a>
+                                    <a href="artigo_pensao_alimenticia.php" title="Pensão alimentícia">Pensão alimentícia</a>
                                 </h3>
                                 <div class="news-item-desc">
                                     <p class="texto_areas">A pensão alimentícia é um valor usado para garantir a subsistência de uma pessoa que não pode se
@@ -105,7 +105,7 @@
                                 </div>
                             </div>
                             <div class="section-btns justify-content-center">
-                                <a href="area_atuacao_pensao_alimenticia.php" class="btn btn-with-icon btn-w240 ripple">
+                                <a href="artigo_pensao_alimenticia.php" class="btn btn-with-icon btn-w240 ripple">
                                     <span>Saiba mais</span>
                                 </a>
                             </div>
@@ -114,12 +114,12 @@
                     <div class="col-lg-4 col-md-6 col-12 item">
                         <!-- Begin news item -->
                         <article class="news-item item-style">
-                            <a href="area_atuacao_recalculo_adicional.php" class="news-item-img">
+                            <a href="artigo_recalculo_adicional.php" class="news-item-img">
                                 <img data-src="assets/img/recalculo.jpg" class="lazy" alt="">
                             </a>
                             <div class="news-item-info">
                                 <h3 class="news-item-heading item-heading">
-                                    <a href="area_atuacao_recalculo_adicional.php" title="Recálculo do Adicional por Tempo de Serviço ">Recálculo do Adicional por
+                                    <a href="artigo_recalculo_adicional.php" title="Recálculo do Adicional por Tempo de Serviço ">Recálculo do Adicional por
                                         Tempo de Serviço </a>
                                 </h3>
                                 <div class="news-item-desc">
@@ -128,7 +128,7 @@
                                 </div>
                             </div>
                             <div class="section-btns justify-content-center">
-                                <a href="area_atuacao_recalculo_adicional.php" class="btn btn-with-icon btn-w240 ripple">
+                                <a href="artigo_recalculo_adicional.php" class="btn btn-with-icon btn-w240 ripple">
                                     <span>Saiba mais</span>
                                 </a>
                             </div>
@@ -141,12 +141,12 @@
                     <div class="col-lg-4 col-md-6 col-12 item">
                         <!-- Begin news item -->
                         <article class="news-item item-style">
-                            <a href="area_atuacao_desconto_indevido_PM.php" class="news-item-img">
+                            <a href="artigo_desconto_indevido_PM.php" class="news-item-img">
                                 <img data-src="assets/img/Policial Militar Inativo.jpg" class="lazy" alt="">
                             </a>
                             <div class="news-item-info">
                                 <h3 class="news-item-heading item-heading">
-                                    <a href="area_atuacao_desconto_indevido_PM.php" title="Policial Militar do Estado de São Paulo, aposentado ou pensionista, você está sofrendo um desconto indevido! ">Policial Militar do Estado de São Paulo, aposentado ou pensionista, você está sofrendo um desconto indevido! </a>
+                                    <a href="artigo_desconto_indevido_PM.php" title="Policial Militar do Estado de São Paulo, aposentado ou pensionista, você está sofrendo um desconto indevido! ">Policial Militar do Estado de São Paulo, aposentado ou pensionista, você está sofrendo um desconto indevido! </a>
                                 </h3>
                                 <div class="news-item-desc">
                                     <p class="texto_areas">O STF (Supremo Tribunal Federal), órgão máximo do Poder Judiciário, julgou inconstitucional o artigo 24-C, da Lei Federal 13.954/2019,
@@ -154,7 +154,7 @@
                                 </div>
                             </div>
                             <div class="section-btns justify-content-center">
-                                <a href="area_atuacao_desconto_indevido_PM.php" class="btn btn-with-icon btn-w240 ripple">
+                                <a href="artigo_desconto_indevido_PM.php" class="btn btn-with-icon btn-w240 ripple">
                                     <span>Saiba mais</span>
                                 </a>
                             </div>

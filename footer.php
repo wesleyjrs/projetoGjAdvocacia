@@ -13,11 +13,11 @@
     <div class="footer-main">
         <div class="container">
             <div class="row items">
-                <div class="col-xl-4 col-md-3 col-lg-2 item">
+                <div class="col-xl-4 col-12 item">
                     <div class="footer-company-info">
                         <div class="footer-company-top">
-                            <a href="#" class="logo" title="PathSoft">
-                                <img data-src="assets/img/Logo1_Transparentebranco.png" class="lazy" src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" alt="PathSoft" style="margin: auto;">
+                            <a href="#" class="logo" title="GJ Advocacia e Consultoria Juridica">
+                                <img data-src="assets/img/Logo1_Transparentebranco.png" class="lazy" src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABCAQAAAC1HAwCAAAAC0lEQVR42mNkYAAAAAYAAjCB0C8AAAAASUVORK5CYII=" alt="GJ Advocacia e Consultoria Juridica" style="margin: auto;">
                             </a>
                         </div>
                     </div>
@@ -43,7 +43,7 @@
                     </div> -->
                     <!-- End company info -->
                 <!-- </div> -->
-                <div class="col-xl-4 col-lg-3 col-md-3 col-7 item">
+                <div class="col-xl-4 col-12 item">
                     <div class="footer-item">
                         <div style="margin-left: 30%;">
                             <p class="footer-item-heading">Menu</p>
@@ -61,7 +61,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="col-xl-4 col-lg-4 col-12 item">
+                <div class="col-xl-4 col-12 item">
                     <div class="footer-item">
                         <p class="footer-item-heading">Contatos</p>
                         <ul class="footer-contacts">

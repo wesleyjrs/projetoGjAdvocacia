@@ -66,7 +66,7 @@
 
 
         <!-- Begin advantages -->
-        <section class="section section-bgc" style="margin-top: 200px;">
+        <section class="section section-bgc" style="margin-top: 100px;">
             <div class="container">
                 <div class="row items">
                     <div class="col-12">
